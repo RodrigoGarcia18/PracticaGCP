@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="https://getbootstrap.com/favicon.ico">
 
-    <title>TENDENCIAS 2024</title>
+    <title>APLICACIONES EN LA NUBE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://getbootstrap.com/docs/4.1/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -24,7 +24,7 @@
       <header class="blog-header py-3">
         <div class="row flex-nowrap justify-content-between align-items-center">
           <div class="col-12 text-center">
-            <a class="blog-header-logo text-dark" href="#">APLICACIONES EN LA NUBE</a>
+            <a class="blog-header-logo text-dark" href="#">APLICACIONES EN LA NUBE 2024</a>
           </div>
         </div>
       </header>
